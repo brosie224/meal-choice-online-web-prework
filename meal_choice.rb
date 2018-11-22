@@ -1,3 +1,3 @@
-def meal_choice(choice = "meat")
-  puts choice
+def meal_choice(x = "meat")
+  puts x
 end
